@@ -1,5 +1,5 @@
 ### Hi there 👋
-## ABOUT ME 💁‍♀️
+### ABOUT ME 💁‍♀️
 
 **UNIVERSITY**: The University of British Columbia (UBC), Vancouver BC, Canada 
 
@@ -11,11 +11,11 @@
 
 **INTERESTS**: **Consulting** 🕴, **AI Research** 📚 , **Dashboarding** 🖥️, **Machine Learning** 🤖, **Sports** ⛹️‍♀️, **Travel** ✈️, **Learning Spanish** 
 
-## Hackathon Project Submissions
+### Hackathon Project Submissions
 
 [Pomodorobo Study Buddy](https://devpost.com/software/pomodorobo-study-buddy) 🍅
 
-## Competition Participation
+### Competition Participation
 [30 Day of ML - Kaggle](https://www.kaggle.com/thirty-days-of-ml) 👩‍🔬
 
 <!--
