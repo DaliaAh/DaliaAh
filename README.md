@@ -5,8 +5,6 @@
 
 **MAJOR**: Cognitive Systems (COGS): Cognition and Brain 💻🧠
 
-**Current Job**: AI & Data Intern at Deloitte Middle East 📈
-
 **Currently Learning**: Data Science/Machine Learning, SQL, Data Analytics & Visualization.
 
 **INTERESTS**: **Consulting** 🕴, **AI Research** 📚 , **Dashboarding** 🖥️, **Machine Learning** 🤖, **Sports** ⛹️‍♀️, **Travel** ✈️, **Learning Spanish** 
